@@ -1,4 +1,3 @@
-# MIP
 
 # Importar OR-Tools para programación lineal
 
